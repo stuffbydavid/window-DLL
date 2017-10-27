@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+     Creating library ..\..\..\Source\datafiles\Data\window.lib and object ..\..\..\Source\datafiles\Data\window.exp
+  Generating code
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  window.vcxproj -> D:\OneDrive\Projects\Minecraft\Mine-imator\DLL\window\window\..\..\..\Source\datafiles\Data\window.dll
+  window.vcxproj -> ..\..\..\Source\datafiles\Data\window.pdb (Full PDB)
